@@ -24,12 +24,14 @@ This is a Python web scraper built using BeautifulSoup to extract the latest new
    ```
 
 3. Run the function on scraper script like this:
-![image](https://github.com/erlanggaard/detik_news_scraper/assets/61130170/35a9dae3-3d8d-4216-becb-096dd7a8a570)
+<img width="1272" alt="image" src="https://github.com/user-attachments/assets/6995ae09-b3e5-471c-b4dd-46d2ad29646f">
 
 
-5. View the extracted news data in the console output.
 
-![image](https://github.com/erlanggaard/detik_news_scraper/assets/61130170/cb5a0f41-9de2-46ae-ae96-678f1d9deabd)
+4. View the extracted news data in the console output.
+
+<img width="930" alt="image" src="https://github.com/user-attachments/assets/a94e4678-4d12-4b37-8d5f-ada0056223b1">
+
 
 
 ## Disclaimer
