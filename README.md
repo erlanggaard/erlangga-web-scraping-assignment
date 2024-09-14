@@ -24,6 +24,7 @@ This is a Python web scraper built using BeautifulSoup to extract the latest new
    ```
 
 3. Run the function on scraper script like this:
+   
 <img width="1272" alt="image" src="https://github.com/user-attachments/assets/6995ae09-b3e5-471c-b4dd-46d2ad29646f">
 
 
@@ -31,6 +32,13 @@ This is a Python web scraper built using BeautifulSoup to extract the latest new
 4. View the extracted news data in the console output.
 
 <img width="930" alt="image" src="https://github.com/user-attachments/assets/a94e4678-4d12-4b37-8d5f-ada0056223b1">
+
+
+
+5. Here is the result has saved on the drive with .csv extension
+   
+   <img width="1680" alt="image" src="https://github.com/user-attachments/assets/88a613ba-ffe2-4a04-8af0-18b6db2f63eb">
+
 
 
 
